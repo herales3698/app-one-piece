@@ -1,0 +1,7 @@
+{
+  "name": "Api-one-piece",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
